@@ -1,6 +1,6 @@
 # Firstproject
 This is the Software Carpentry tutorial.
-This project contains nice software for doing data analysis.
+This project contains great software for doing data analysis.
 
 ## Usage
 Description.
